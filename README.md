@@ -2,7 +2,7 @@
 
 Konsolowa aplikacja w języku C# (.NET 8) do zarządzania postaciami w systemie RPG Dungeons & Dragons 5. edycji. Projekt realizowany w ramach zaliczenia przedmiotu **Zaawansowane Programowanie Obiektowe** (semestr 5.).
 
-Aplikacja umożliwia tworzenie postaci trzech klas (Wojownik, Czarodziej, Lotrzyk), losowanie statystyk, zarządzanie ekwipunkiem, symulację walki oraz asynchroniczny zapis stanu postaci do pliku JSON.
+Aplikacja umożliwia tworzenie postaci trzech klas (Wojownik, Czarodziej, Lotrzyk), losowanie statystyk, zarządzanie ekwipunkiem, oraz asynchroniczny zapis stanu postaci do pliku JSON.
 
 ---
 
