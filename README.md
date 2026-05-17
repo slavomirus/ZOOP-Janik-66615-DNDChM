@@ -116,6 +116,3 @@ Cały kod zawarty jest w jednym pliku `Program.cs`, pogrupowanym w przestrzeni n
 ## Autor
 Krzysztof Janik 
 66615
-README file prepared by Claude Sonnet 4.6
-
-Projekt zaliczeniowy — Zaawansowane Programowanie Obiektowe, semestr 5.
