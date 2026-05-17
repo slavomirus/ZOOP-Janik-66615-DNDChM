@@ -1,0 +1,17 @@
+{
+  "name": "Michal",
+  "race": "Czlowiek",
+  "level": 20,
+  "class": "Wojownik (Styl: Obronny, Atak szczytowy: 1)",
+  "current_hp": 10,
+  "max_hp": 10,
+  "strength": 10,
+  "dexterity": 9,
+  "constitution": 13,
+  "intelligence": 14,
+  "wisdom": 11,
+  "charisma": 16,
+  "armor_bonus": 0,
+  "items": [],
+  "saved_at": "2026-05-17 16:29:03"
+}

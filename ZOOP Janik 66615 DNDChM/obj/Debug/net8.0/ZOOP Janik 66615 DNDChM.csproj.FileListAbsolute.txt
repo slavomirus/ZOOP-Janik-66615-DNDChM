@@ -1,0 +1,14 @@
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/bin/Debug/net8.0/ZOOP Janik 66615 DNDChM
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/bin/Debug/net8.0/ZOOP Janik 66615 DNDChM.deps.json
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/bin/Debug/net8.0/ZOOP Janik 66615 DNDChM.runtimeconfig.json
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/bin/Debug/net8.0/ZOOP Janik 66615 DNDChM.dll
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/bin/Debug/net8.0/ZOOP Janik 66615 DNDChM.pdb
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ZOOP Janik 66615 DNDChM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ZOOP Janik 66615 DNDChM.AssemblyInfoInputs.cache
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ZOOP Janik 66615 DNDChM.AssemblyInfo.cs
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ZOOP Janik 66615 DNDChM.csproj.CoreCompileInputs.cache
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ZOOP Janik 66615 DNDChM.dll
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/refint/ZOOP Janik 66615 DNDChM.dll
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ZOOP Janik 66615 DNDChM.pdb
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ZOOP Janik 66615 DNDChM.genruntimeconfig.cache
+/Users/everbodyhateschris/Downloads/files/ZOOP Janik 66615 DNDChM/ZOOP Janik 66615 DNDChM/obj/Debug/net8.0/ref/ZOOP Janik 66615 DNDChM.dll

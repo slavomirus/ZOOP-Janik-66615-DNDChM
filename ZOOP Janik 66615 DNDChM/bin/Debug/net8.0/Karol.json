@@ -1,0 +1,20 @@
+{
+  "name": "Karol",
+  "race": "Gnom",
+  "level": 13,
+  "class": "Czarodziej (Szkola: Ogolna, Miejsca czarow: 26)",
+  "current_hp": 5,
+  "max_hp": 5,
+  "strength": 11,
+  "dexterity": 8,
+  "constitution": 10,
+  "intelligence": 15,
+  "wisdom": 14,
+  "charisma": 11,
+  "armor_bonus": 0,
+  "items": [
+    "Bron: Miecz Przeznaczenia, obrazenia: k6 Przebijajace, waga: 4, wartosc: 100 sz",
+    "Bron: \u001B Kusza Kostuchy, obrazenia: k6 Przebijajace, waga: 5, wartosc: 250 sz"
+  ],
+  "saved_at": "2026-05-17 16:27:58"
+}
